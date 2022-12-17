@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(187, 187, 184);
+}
+
+.title_turkey,
+.manicotti_title,
+.pastelon_title {
+  text-align: center;
+  border-width: 2px;
+  border-style: dashed;
+  margin: 50px;
+  background-color: aqua;
+}
+
+.image {
+  height: auto;
+  width: 250px;
+  border-width: 5px;
+  border-color: black;
+  border-style: outset;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title_paragraph {
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+  /* background-color: rgb(158, 165, 163); */
+}
+
+.paragraph {
+  font-size: 18px;
+  font-weight: bold;
+  background-color: rgb(153, 199, 179);
+}
+
+.unorder_list,
+.order_list {
+  font-weight: bold;
+  background-color: rgb(164, 195, 235);
+}
