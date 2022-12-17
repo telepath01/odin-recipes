@@ -1,6 +1,16 @@
 body {
   background-color: rgb(187, 187, 184);
 }
+.title_li {
+  border: 2px solid black;
+  padding: 0.5em;
+}
+
+.index_links {
+  display: inline-flex;
+  list-style: none;
+  padding: 0.5em;
+}
 
 .title_turkey,
 .manicotti_title,
